@@ -14,7 +14,7 @@
 Manage containers & Kubernetes infrastructure Skills Development Path   
 - [DDO180 - Red Hat OpenShift Administration I: Operating a Production Cluster](https://www.redhat.com/en/services/training/red-hat-openshift-administration-i-operating-a-production-cluster)  
 - [DDO280 - Red Hat OpenShift Administration II: Configuring a Production Cluster](https://www.redhat.com/en/services/training/red-hat-openshift-administration-ii-configuring-a-production-cluster)  
-- DDO380 - Red Hat OpenShift Administration III: Scaling Deployments in the Enterprise  
+- [DDO380 - Red Hat OpenShift Administration III: Scaling Deployments in the Enterprise](https://www.redhat.com/en/services/training/do380-red-hat-openshift-administration-iii-scaling-deployments-in-the-enterprise)  
 - DDO370 - Enterprise Kubernetes Storage with Red Hat OpenShift Data Foundation  
 - DDO480 - Multicluster Management with Red Hat OpenShift Platform Plus  
 - [DDO316 - Managing Virtual Machines with Red Hat OpenShift Virtualization](https://www.redhat.com/en/services/training/do316-managing-virtual-machines-red-hat-openshift-virtualization) 
