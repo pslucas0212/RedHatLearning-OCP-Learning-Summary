@@ -17,6 +17,6 @@ Manage containers & Kubernetes infrastructure Skills Development Path
 - DDO380 - Red Hat OpenShift Administration III: Scaling Deployments in the Enterprise  
 - DDO370 - Enterprise Kubernetes Storage with Red Hat OpenShift Data Foundation  
 - DDO480 - Multicluster Management with Red Hat OpenShift Platform Plus  
-- DDO316 - Managing Virtual Machines with Red Hat OpenShift Virtualization  
+- [DDO316 - Managing Virtual Machines with Red Hat OpenShift Virtualization](https://www.redhat.com/en/services/training/do316-managing-virtual-machines-red-hat-openshift-virtualization) 
 - [DDO322 - Red Hat OpenShift Installation Lab](https://www.redhat.com/en/services/training/do322-red-hat-openshift-installation-lab) - Recommended Pre-reqs: DO180 and DO280
 
