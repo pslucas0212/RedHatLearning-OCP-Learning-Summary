@@ -6,9 +6,9 @@
 
 ### No Charge
 - [DO080 Containers, Kubernetes and Red Hat OpenShift Technical Overview](https://www.redhat.com/en/services/training/do080-deploying-containerized-applications-technical-overview?section=outline)
-- [DInteractive labs for Red Hat OpenShift](https://www.redhat.com/en/interactive-labs/openshift)
-- [DFoundations of OpenShift](https://developers.redhat.com/learn/openshift/foundations-openshift)
-- [DRed Hat Hybrid Cloud learning hub](https://cloud.redhat.com/learn)
+- [Interactive labs for Red Hat OpenShift](https://www.redhat.com/en/interactive-labs/openshift)
+- [Foundations of OpenShift](https://developers.redhat.com/learn/openshift/foundations-openshift)
+- [Red Hat Hybrid Cloud learning hub](https://cloud.redhat.com/learn)
 
 ### Paid Learning Complete Skill Path (recommended classes hyperlinked below)  
 Manage containers & Kubernetes infrastructure Skills Development Path   
