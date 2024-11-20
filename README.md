@@ -10,7 +10,7 @@
 - [Foundations of OpenShift](https://developers.redhat.com/learn/openshift/foundations-openshift)
 - [Red Hat Hybrid Cloud learning hub](https://cloud.redhat.com/learn)
 
-### Paid Learning Complete Skill Path (recommended classes hyperlinked below)  
+### Paid Learning Complete Skill Path 
 Manage containers & Kubernetes infrastructure Skills Development Path   
 - [DDO180 - Red Hat OpenShift Administration I: Operating a Production Cluster](https://www.redhat.com/en/services/training/red-hat-openshift-administration-i-operating-a-production-cluster)  
 - [DDO280 - Red Hat OpenShift Administration II: Configuring a Production Cluster](https://www.redhat.com/en/services/training/red-hat-openshift-administration-ii-configuring-a-production-cluster)  
